@@ -2,6 +2,7 @@
 ## bs4
 ## lxml
 ## fake-useragent
+## XlsxWriter
 
 # request.get - когда нужно получить данные со страницы 
 ######## усли хотим чтобы записывался в html пишем .....requests.get(<link>).txt......
