@@ -1,1 +1,4 @@
 /.venv
+moduls.py
+main.py
+__pycache__
